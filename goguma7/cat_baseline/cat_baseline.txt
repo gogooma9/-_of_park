@@ -1,5 +1,8 @@
 baseline: 130.9638533
 upper_limit: 110.2372575
 area_split: 114.4844509
-rent_split:
-upper_limit + area_split: 95.54082255
+rental_split: 126.1737243
+deposit_split: 132.67649682028136
+upper_limit + area_split: 96.36695334
+upper_limit + rent_split: 112.138808
+upper_limit + area_split + rent_split: 107.264047
