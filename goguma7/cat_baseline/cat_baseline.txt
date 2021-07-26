@@ -1,0 +1,5 @@
+baseline: 130.9638533
+upper_limit: 110.2372575
+area_split: 114.4844509
+rent_split:
+upper_limit + area_split: 95.54082255
